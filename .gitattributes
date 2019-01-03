@@ -1,0 +1,2 @@
+*.cpp diff=utf16
+*.c diff=utf16
